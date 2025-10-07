@@ -67,8 +67,8 @@ This repository contains the complete implementation with:
 - **Adversarial validation** to ensure reliable model evaluation
 - **Research report** (`Personality_Prediction_Research_Paper.pdf`) with detailed methodology and results
 
-## Research Paper
-The complete report on the project (`Personality_Prediction_Research_Paper.pdf`) is available in the documentation folder, presenting detailed methodology, results, and analysis.
+## Research Report
+The complete report on the project (`Personality_Prediction_Report.pdf`) is available in the documentation folder, presenting detailed methodology, results, and analysis.
 
 
 ## Dataset
