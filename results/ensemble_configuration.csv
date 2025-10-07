@@ -1,0 +1,4 @@
+Ensemble_Type,Models_Count,Models_Used,Meta_Learner,ROC_AUC,Accuracy
+Soft Voting,6,"Logistic Regression, Random Forest, XGBoost, LightGBM, CatBoost, AdaBoost",None,0.9834,0.9692
+Hard Voting,6,"Logistic Regression, Random Forest, XGBoost, LightGBM, CatBoost, AdaBoost",None,0.9720,0.9720
+Stacking,5,"Logistic Regression, Random Forest, XGBoost, LightGBM, MLP",LogisticRegression,0.9850,0.9755
