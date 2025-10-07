@@ -1,0 +1,11 @@
+,0
+activation,relu
+solver,adam
+alpha,5.4811478424855445e-05
+learning_rate_init,0.001199383362092655
+max_iter,255
+batch_size,32
+learning_rate,constant
+n_iter_no_change,5
+tol,0.0007495620226656037
+hidden_layer_sizes,"(113, 106)"

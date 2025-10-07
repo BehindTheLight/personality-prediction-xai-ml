@@ -1,0 +1,13 @@
+,0
+n_d,16.0
+n_a,7.0
+n_steps,3.0
+gamma,1.7804479982960757
+n_independent,1.0
+n_shared,2.0
+lambda_sparse,0.0014371433136250397
+momentum,0.29227310609875534
+clip_value,3.2800138557559415
+learning_rate,0.017839191432910812
+batch_size,256.0
+virtual_batch_size,256.0

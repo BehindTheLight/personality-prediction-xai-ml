@@ -1,0 +1,11 @@
+Metric,Value
+Total_Samples,27398.0
+Correctly_Classified,26693.0
+Misclassified,705.0
+Accuracy,0.9742681947587415
+False_Positives,437.0
+False_Negatives,268.0
+Avg_Confidence_Correct,0.9741130575834576
+Avg_Confidence_Misclassified,0.9257848495245266
+Min_Confidence_Correct,0.5064627088772837
+Max_Confidence_Misclassified,0.9995143047951769

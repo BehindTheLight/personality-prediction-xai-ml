@@ -1,0 +1,8 @@
+,0
+ensemble_type,Stacking
+base_models_count,5
+base_models,"['lr_tuned', 'rf_tuned', 'xgb_tuned', 'lgb_tuned', 'mlp_tuned']"
+meta_learner,LogisticRegression
+cv_folds,3
+stack_method,predict_proba
+random_seed,42

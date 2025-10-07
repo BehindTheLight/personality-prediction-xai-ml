@@ -1,0 +1,17 @@
+,0
+architecture,TabNet
+n_d,16
+n_a,7
+n_steps,3
+gamma,1.7804479982960757
+n_independent,1
+n_shared,2
+lambda_sparse,0.0014371433136250397
+momentum,0.29227310609875534
+clip_value,3.2800138557559415
+learning_rate,0.017839191432910812
+batch_size,256
+virtual_batch_size,256
+mask_type,entmax
+device,cuda
+framework,PyTorch-TabNet

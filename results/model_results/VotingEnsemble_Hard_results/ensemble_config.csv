@@ -1,0 +1,5 @@
+,0
+estimators,"['lr_tuned', 'rf_tuned', 'xgb_tuned', 'lgb_tuned', 'cat_tuned', 'ada_tuned']"
+voting_method,hard
+n_estimators,6
+models_used,"['lr_tuned', 'rf_tuned', 'xgb_tuned', 'lgb_tuned', 'cat_tuned', 'ada_tuned']"

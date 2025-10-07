@@ -1,0 +1,9 @@
+Feature,Mean_Abs_SHAP
+social_activity_score,1.2588923270998635
+socializing_score,1.044481963430843
+Time_spent_Alone,0.6137258025977075
+introversion_score,0.6039167394784172
+Social_event_attendance,0.5346810710079689
+Stage_fear,0.34550410947345034
+Going_outside,0.3177659605327749
+Drained_after_socializing,0.03275010510212278
